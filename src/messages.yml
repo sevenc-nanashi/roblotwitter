@@ -18,6 +18,7 @@ en:
 
     (Translation by GitHub Copilot)
   link: btw this page is open source, sevenc-nanashi/roblotwitter
+  author: Written by Nanashi. <sevenc-nanashi>
 ja:
   title: X社、正気か？
   description: |
@@ -37,3 +38,4 @@ ja:
 
     「X社、正気か？」
   link: ちなみに、ソースコードの様子は是非 sevenc-nanashi/roblotwitter でご覧下さい
+  author: "by 名無し｡ <sevenc-nanashi>"
