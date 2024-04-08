@@ -13,7 +13,7 @@ onMounted(() => {
   <div>
     <h1>{{ t("title") }}</h1>
     <p class="main">{{ t("description") }}</p>
-    <a href="https://github.com/sevenc-nanashi/roblowtitter">{{ t("link") }}</a>
+    <a href="https://github.com/sevenc-nanashi/roblotwitter">{{ t("link") }}</a>
   </div>
 </template>
 
